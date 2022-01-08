@@ -1,0 +1,9 @@
+.main-container {
+    padding: 0;
+    justify-content: space-between;
+    width: 33%;
+  }
+
+.main-container > h2 {
+    margin: 25px;
+}

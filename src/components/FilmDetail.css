@@ -1,0 +1,6 @@
+#film-detail > img {
+    height: auto; 
+    width: auto; 
+    max-width: 800px; 
+    max-height: 800px;
+}
